@@ -25,12 +25,13 @@ Used for Devry University Senior project - Team C
 
 ### Schematic 
 
-![Alt text](http://i.imgur.com/XCvCXxw.png)
+![Alt text](http://i.imgur.com/zGyVVKe.jpg)
 
 #### References
 
 * https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr
 * http://www.arduino.cc/
 * https://www.sparkfun.com/tutorials/348
+* 
 
 
