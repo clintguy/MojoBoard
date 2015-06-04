@@ -32,6 +32,5 @@ Used for Devry University Senior project - Team C
 * https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr
 * http://www.arduino.cc/
 * https://www.sparkfun.com/tutorials/348
-* 
 
 
