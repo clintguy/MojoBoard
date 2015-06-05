@@ -25,7 +25,7 @@ void setup() {
   pinMode(5, INPUT); // Set input pin for throttle
   pinMode(pwm, OUTPUT);  //Set control pins to be outputs for PWM
   analogWrite(pwm, 0);
-  pinMode(0, INPUT); // Set input pin for pressure sensor
+  pinMode(sensorPin, INPUT); // Set input pin for pressure sensor
   
   // For debugging : will send to Serial monitor
   // uncomment to use
@@ -61,7 +61,7 @@ void loop() {
   
   else{
     
-    delay(1000); //waits 1 second delday(ms)
+    delay(1000); //waits 1 second delay(ms)
   }
 
 
