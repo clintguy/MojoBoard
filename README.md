@@ -1,15 +1,5 @@
----
-Title: MojoBoard
-Description: Arduino code for motorized skateboard
-Authors: Tom Resh, Clint Best, Mattew Moffa
-Created:  2015 June 2
-Modified: 2015 June 3
-
----
 
 # MojoBoard
-
-
 
 ### Summary
 This repository is for MojoBoard, a Motorize skateboard, using Arduino Sketch.
