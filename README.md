@@ -15,7 +15,7 @@ Used for Devry University Senior project - Team C
 
 ### Schematic 
 
-![Alt text](http://imgur.com/7BZnkSD)
+![Alt text](http://i.imgur.com/7BZnkSD.png)
 
 #### References
 
